@@ -12,11 +12,11 @@
 - 🤖 Working on **AI-powered apps, Native Applications**  
 ---
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geevargheseregi&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karivarkey&theme=react-dark" />
 </p>
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geevargheseregi&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karivarkey&show_icons=true&theme=radical" />
 </p>
 ---
 
