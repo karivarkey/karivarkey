@@ -9,8 +9,15 @@
 - 🎓 CS Undergrad & Freelance Developer  
 - ⚡ Love building scalable web & mobile apps  
 - 🛠️ Skilled in **React, React Native, TypeScript, Express, MongoDB**  
-- 🤖 Working on **AI-powered apps, voice recognition & offline ML**  
-
+- 🤖 Working on **AI-powered apps, Native Applications**  
+---
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geevargheseregi&theme=react-dark" />
+</p>
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=geevargheseregi&show_icons=true&theme=radical" />
+</p>
 ---
 
 ## 🔥 Technologies & Tools  
@@ -23,26 +30,23 @@
 
 ## 🚧 Projects & Work  
 
-🔹 Currently working on:  
-- 🏥 **Hospital Booking System** (React Native + Firebase)  
-- 🎟 **Offline Voice-Based Bus Ticketing System**  
-- 📖 **Google Classroom Alternative**  
-- 🤖 **AI-Based Meme Teaching App**  
+🔹 Currently working on:    
+- 🤖 **AI-Based Meme Teaching App - Kodomo**  
 
-📌 **More projects?** [Check out my GitHub!](https://github.com/geevargheseregi)  
+📌 **More projects?** [Check out my GitHub!](https://github.com/karivarkey)  
 
 ---
 
 ## 📬 Let's Connect!  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/geevargheseregi/" target="_blank">
+  <a href="https://www.linkedin.com/in/geevarghese-regi-658531214" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:geevarghese@example.com">
+  <a href="mailto:geevargheseregi78@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://github.com/geevargheseregi">
+  <a href="https://github.com/karivarkey">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
 </p>
