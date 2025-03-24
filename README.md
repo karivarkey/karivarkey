@@ -10,15 +10,6 @@
 - ⚡ Love building scalable web & mobile apps  
 - 🛠️ Skilled in **React, React Native, TypeScript, Express, MongoDB**  
 - 🤖 Working on **AI-powered apps, Native Applications**  
----
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karivarkey&theme=react-dark" />
-</p>
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karivarkey&show_icons=true&theme=radical" />
-</p>
----
 
 ## 🔥 Technologies & Tools  
 
@@ -50,3 +41,14 @@
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
 </p>
+---
+## STATS?
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karivarkey&theme=react-dark" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karivarkey&show_icons=true&theme=radical" />
+</p>
+---
+
+---
